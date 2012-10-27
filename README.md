@@ -12,8 +12,9 @@ screen. I guess I just want it too bad, get all nervous, and McFuckUp (TM).
 
 The last time I have ever written a data structure from scratch was for
 Fall 2010 coursework in
-[CS4041 - Algorithms and Data Structures](http://www.cs.umn.edu/academics/undergraduate/class_desc/csci4041.php)
-. All the problems I solve are based around gluing pieces together.
+[CS4041 - Algorithms and Data Structures](http://www.cs.umn.edu/academics/undergraduate/class_desc/csci4041.php).
+All the problems I _normally_ solve are based around gluing pieces of
+preexisting software/concepts gleaned from docs together.
 
 I love AWS and wish I could be a part of the awesome group. Maybe someone will
 see this, prep better, and get in.
@@ -39,12 +40,13 @@ The Obvious Answer (2)
 2. Print off the name of all the child elements
 3. Rinse, Repeat
 4. ... store them as the traversal happens
-5. Print from queue
+5. Print from the stored queue
 6. Make it to the next tech screen
 
 Thanks
 -------------
-1. Claire - for dealing with my idiocy
+1. Claire - for dealing with my idiocy. What you told me about the development
+environment in AWS makes me all the more want to keep trying to get in.
 2. Myself - for being able to write integration libraries in how many languages,
 tap into various 3rd party services, follow coding standards, and lead a
 continuous integration movement; unable to write a tree traversal on the fly
