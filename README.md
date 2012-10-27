@@ -31,6 +31,7 @@ My dumbass Approach (1)
 2. Iterate: getting the nodes at each level ... building a list
 3. Print off the correctly ordered list
 4. Confuse self by intermingling recursion and iteration
+5. Use up all the interview time without getting anything working
 
 Who the fuck thinks of that???
 
